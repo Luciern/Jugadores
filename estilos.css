@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+@font-face{font-family:nba; src: url(negra.ttf);}
+	*{font-family: nba;}
+#equipo{border:1px solid black; width:30%; height:100px; text-align:center; background-color:greenyellow;}
+
+#equipo{border:1px solid black; width:30%; height:150px; float:right; margin-top:20px;}
+
+nav> div > ul > li{list-style:none; display:inline-block; padding:15px;}
+
+#menu{height:100px; text-align:center;}
